@@ -3,9 +3,9 @@ I'm Vinay, a passionate and dedicated **Full Stack Developer** with a strong foc
 
 Here are some of the technologies and tools I'm skilled in:
 
-### 💻 Technologies & Tools:
+## 💻 Technologies & Tools:
 
-#### **Frontend**:
+### **Frontend**:
 - HTML
 - CSS
 - JavaScript
@@ -17,24 +17,24 @@ Here are some of the technologies and tools I'm skilled in:
 - Material-UI
 - React Router
 
-#### **Backend**:
+### **Backend**:
 - Node.js (learning more about it!)
 - PostgreSQL
 - SQL
 - REST APIs
 - Authentication & Authorization
 
-#### **3D Graphics & Web**:
+### **3D Graphics & Web**:
 - Three.js
 - WebGL
 
-#### **Other Skills**:
+### **Other Skills**:
 - Git
 - Web Performance Optimization
 - Data Structures & Algorithms
 - Recursion
 
-#### **Languages**:
+### **Languages**:
 - Fluent in Mandarin and Persian
 
 ### 📈 Current Focus:
@@ -50,8 +50,7 @@ Here are some of the technologies and tools I'm skilled in:
 - **3D Web Graphics**: If you're curious about **Three.js** or **WebGL**, feel free to ask!
 
 ### 📫 How to Reach Me:
-- Email me at: [G-Mail](vinaykkumar248@gmail.com)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+- Email me at: [vinaykkumar248@gmail.com].
 
 ### ⚡ Fun Fact:
 - I speak **Mandarin** and **Persian**, and I'm always up for learning new languages, both human and programming! 🌍
