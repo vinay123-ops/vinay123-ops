@@ -1,16 +1,57 @@
-## Hi there 👋
+## 👨‍💻 About Me:
+I'm Vinay, a passionate and dedicated **Full Stack Developer** with a strong focus on building dynamic, efficient, and scalable web applications. I specialize in frontend technologies like React, Next.js, and Tailwind CSS, and backend technologies such as Node.js, PostgreSQL, and SQL. 
 
-<!--
-**vinay123-ops/vinay123-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of the technologies and tools I'm skilled in:
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Frontend**:
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+- GSAP
+- Framer Motion
+- Material-UI
+- React Router
+
+#### **Backend**:
+- Node.js (learning more about it!)
+- PostgreSQL
+- SQL
+- REST APIs
+- Authentication & Authorization
+
+#### **3D Graphics & Web**:
+- Three.js
+- WebGL
+
+#### **Other Skills**:
+- Git
+- Web Performance Optimization
+- Data Structures & Algorithms
+- Recursion
+
+#### **Languages**:
+- Fluent in Mandarin and Persian
+
+### 📈 Current Focus:
+- I'm currently learning **GraphQL** to further enhance my backend skills.
+- I’m diving deeper into **Web Performance Optimization** and **Advanced JavaScript** features.
+
+### 🌱 Looking to Collaborate:
+- I'm interested in collaborating on **full-stack web development** projects, particularly with **Next.js** and **React**.
+
+### 💬 Ask Me About:
+- **Web Development**: From frontend design to backend architecture.
+- **JavaScript & React**: I love to discuss the latest features and best practices.
+- **3D Web Graphics**: If you're curious about **Three.js** or **WebGL**, feel free to ask!
+
+### 📫 How to Reach Me:
+- Email me at: [G-Mail](vinaykkumar248@gmail.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+### ⚡ Fun Fact:
+- I speak **Mandarin** and **Persian**, and I'm always up for learning new languages, both human and programming! 🌍
