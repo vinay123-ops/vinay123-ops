@@ -1,4 +1,4 @@
-## 👨‍💻 About Me:
+# 👨‍💻 About Me:
 I'm Vinay, a passionate and dedicated **Full Stack Developer** with a strong focus on building dynamic, efficient, and scalable web applications. I specialize in frontend technologies like React, Next.js, and Tailwind CSS, and backend technologies such as Node.js, PostgreSQL, and SQL. 
 
 Here are some of the technologies and tools I'm skilled in:
