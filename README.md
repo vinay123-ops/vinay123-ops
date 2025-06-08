@@ -57,4 +57,4 @@ Here are some of the technologies and tools I'm skilled in:
 
 ### ⚡ Fun Fact:
 - I speak **Mandarin** and **Persian**, and I'm always up for learning new languages, both human and programming! 🌍
-
+.
